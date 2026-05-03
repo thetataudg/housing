@@ -1,5 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import BootstrapClient from "./BootstrapClient";
+import "./globals.css";
 
 import { ReactNode } from "react";
 
